@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://golcuktaksi724.com/sitemap.xml
